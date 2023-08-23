@@ -23,5 +23,4 @@ analytics и CRM.
 
 
 
-
-[Задача] | [Решение](FINAL_EXAM.pbix)
+[Задача](Task.md) | [Решение](FINAL_EXAM.pbix)
